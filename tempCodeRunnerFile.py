@@ -1,1 +1,1 @@
-cantidad_tarjetas_cubiertas
+path
